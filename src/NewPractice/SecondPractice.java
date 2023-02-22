@@ -7,6 +7,6 @@ public class SecondPractice {
 
 	}
 public void remoteMethod(){
-	//this is from remot
+	//this is from remote
 }
 }
